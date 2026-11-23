@@ -1,4 +1,17 @@
-https://www.32323esdsdsd.com
-https://backup.32323esdsdsd.com
-https://vbtooooool.lemonsqueezy.com/checkout/buy
-https://backup.32323esdsdsd.com
+[IPADDRESS]
+web = https://www.example.com
+backupweb = https://backup.example.com
+buyweb = https://checkout.freemius.com/product/45453/plan/80045
+probuy = https://checkout.freemius.com/product/45453/plan/80045
+stanbuy = https://checkout.freemius.com/product/45453/plan/80046
+accont = https://customers.freemius.com/store/22409
+license-recovery = https://dashboard.freemius.com/license-recovery/45453/vediobatchtool/
+alldown = https://github.com/qazwsxwtc/videobatchtool/releases/download/thirdparty/thirdparty.7z
+ffmpegdown = https://www.gyan.dev/ffmpeg/builds/;https://github.com/BtbN/FFmpeg-Builds/releases
+tsduckdown = https://tsduck.io/tsduck-binaries/
+m3u8down = https://github.com/nilaoda/N_m3u8DL-RE/releases
+
+[update]
+web = https://github.com/qazwsxwtc/videobatchtool/releases/download/thirdparty/thirdparty.7z
+v1 = 1.0.0
+v1down = https://github.com/qazwsxwtc/videobatchtool/releases/download/1.0.0
